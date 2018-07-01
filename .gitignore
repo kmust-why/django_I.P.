@@ -1,3 +1,4 @@
 db.sqlite3
 params.pkl
 lbpcascade_animeface.xml
+media/*
